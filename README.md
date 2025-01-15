@@ -36,8 +36,9 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=anthocote19&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=anthocote19&theme=dracula)
+
 
 
 
