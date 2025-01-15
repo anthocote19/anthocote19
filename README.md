@@ -36,5 +36,17 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 
 
-![Commits annuels](https://github-readme-streak-stats.herokuapp.com/?user=anthocote19)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=anthocote19&theme=radical)
+
+
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=anthocote19&theme=dracula)
+
+
+
+
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=anthocote19&repo=nom-du-depot&theme=radical)](https://github.com/anthocote19/nom-du-depot)
+
+
 
