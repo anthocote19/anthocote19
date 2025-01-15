@@ -43,7 +43,7 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 
 
-
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthocote19&layout=compact&theme=radical)
 
 
 
