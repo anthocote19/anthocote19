@@ -28,3 +28,13 @@ Voici quelques-uns de mes projets sur GitHub :
 N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthocote19)
+
+
+
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=anthocote19&layout=compact)
+
+
+
+
+![Commits annuels](https://github-readme-streak-stats.herokuapp.com/?user=anthocote19)
+
