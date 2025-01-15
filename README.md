@@ -17,7 +17,7 @@ Voici quelques-uns de mes projets sur GitHub :
 
 - **[Projet-Python](https://github.com/anthocote19/Projet-Python)** : Un projet Python démontrant mes compétences en programmation. 🐍
 - **[Site-Location](https://github.com/anthocote19/Site-Location)** : Un site web développé en HTML pour la gestion de locations. 🏠
-- **[Projet-TKINTER](https://github.com/anthocote19/Projet-TKINTER)** : Une application de bureau créée avec Tkinter en Python. 🖥️
+- **[Projet-TKINTER](https://github.com/anthocote19/Projet-TKINTER)** : Une application de bureau crée avec Tkinter en Python. 🖥️
 - **[first-contributions](https://github.com/anthocote19/first-contributions)** : Un projet pour aider les débutants à contribuer à des projets open source. 🎉
 
 ## Me contacter 📬
