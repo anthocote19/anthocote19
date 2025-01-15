@@ -36,7 +36,11 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=anthocote19&theme=radical)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+
+
 
 
 
