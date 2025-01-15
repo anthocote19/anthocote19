@@ -35,13 +35,11 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 
 
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)](https://github.com/anthocote19)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)](https://github.com/anthocote19)
 [![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/anthocote19)
+[![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/anthocote19)
 
 
 
