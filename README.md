@@ -38,12 +38,14 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+
+[![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)](https://github.com/anthocote19)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)](https://github.com/anthocote19)
+[![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
 
 
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthocote19&layout=compact&theme=radical)
 
 
 
