@@ -26,3 +26,5 @@ Voici quelques-uns de mes projets sur GitHub :
 - **LinkedIn** : https://www.linkedin.com/in/anthony-cote-25390433a/ 🔗
 
 N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthocote19)
