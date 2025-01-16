@@ -4,7 +4,7 @@ Développeur Web, logiciels et applications passionné par l'informatique et l'i
 
 ## À propos de moi 📍
 
-- **Localisation** : Lyon, France 🇫🇷
+- **Localisation** : France 🇫🇷
 - **Langues maîtrisées** : Français 🇫🇷, Anglais 🇬🇧
 - **Compétences** :
   - Développement Web (HTML, CSS, JavaScript) 🌐
