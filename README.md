@@ -8,7 +8,7 @@ Développeur Web, logiciels et applications passionné par l'informatique et l'i
 - **Langues maîtrisées** : Français 🇫🇷, Anglais 🇬🇧
 - **Compétences** :
   - Développement Web (HTML, CSS, JavaScript) 🌐
-  - Développement d'applications (Python, Java) 🐍☕
+  - Développement d'applications (Python, Java, C) 🐍☕
   - Intelligence Artificielle et Machine Learning 🤖📊
 
 ## Mes projets populaires 🚀
