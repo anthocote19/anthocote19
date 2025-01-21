@@ -40,7 +40,7 @@ N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
 [![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/anthocote19)
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/anthocote19)
-[![Lua](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&logoColor=white)](https://github.com/tonal)
+[![Lua](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&logoColor=white)](https://github.com/anthocote19)
 
 
 
