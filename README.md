@@ -26,8 +26,8 @@ Un site web développé en HTML et JavaScript pour la gestion des locations immo
 ### 3. [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)
 Une application de bureau créée avec **Tkinter** en Python, permettant la gestion d'une base de données locale. Ce projet démontre mes compétences en développement d'interfaces graphiques simples et fonctionnelles.
 
-### 4. [**first-contributions**](https://github.com/anthocote19/first-contributions)
-Un projet conçu pour aider les débutants à faire leurs premières contributions open-source. Ce projet explique les bases de Git et GitHub de manière accessible.
+### 4. [**Cinema-Project**]([https://github.com/anthocote19/Cinema-Project])
+Une application web permettant de rechercher et d'afficher des films en ligne. Développée avec Vite.js, elle offre une interface utilisateur dynamique et intuitive. L'application récupère les données des films via l'API OMDb, incluant images, titres et informations sur les films.
 
 
 ## Statistiques GitHub 📊
