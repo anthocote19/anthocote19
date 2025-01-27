@@ -6,7 +6,7 @@ Je suis développeur passionné par la **création d'applications web**, le **d�
 
 - **Localisation** : France 🇫🇷
 - **Langues maîtrisées** : Français 🇫🇷, Anglais 🇬🇧
-- **Passions** : Informatique, Machine Learning, Développement Web, Intelligence Artificielle
+- **Passions** : Informatique, Machine Learning, Développement Web, Intelligence Artificielle, Jeux Vidéos et Football
 - **Compétences** :
   - **Développement Web** : HTML, CSS, JavaScript 🌐
   - **Développement d'applications** : Python, Java, C 🐍☕
