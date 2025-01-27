@@ -1,55 +1,62 @@
-# Bonjour, je suis Anthony Cote ! 👋
+# Salut, je suis Anthony Cote ! 👋
 
-Développeur Web, logiciels et applications passionné par l'informatique et l'intelligence artificielle. 💻🤖
+Je suis développeur passionné par la **création d'applications web**, le **développement logiciel** et l'**intelligence artificielle**. J'aime relever des défis techniques, apprendre de nouvelles technologies et partager mes connaissances avec la communauté. 🚀
 
 ## À propos de moi 📍
 
 - **Localisation** : France 🇫🇷
 - **Langues maîtrisées** : Français 🇫🇷, Anglais 🇬🇧
+- **Passions** : Informatique, Machine Learning, Développement Web, Intelligence Artificielle
 - **Compétences** :
-  - Développement Web (HTML, CSS, JavaScript) 🌐
-  - Développement d'applications (Python, Java, C) 🐍☕
-  - Intelligence Artificielle et Machine Learning 🤖📊
+  - **Développement Web** : HTML, CSS, JavaScript 🌐
+  - **Développement d'applications** : Python, Java, C 🐍☕
+  - **Intelligence Artificielle** et **Machine Learning** : Création d'algorithmes intelligents et analyse de données 🤖📊
+  - **Gestion de projet** : Gestion agile, développement collaboratif, utilisation de Git et GitHub.
 
 ## Mes projets populaires 🚀
 
-Voici quelques-uns de mes projets sur GitHub :
+Voici quelques-uns de mes projets disponibles sur GitHub. N'hésitez pas à explorer et à contribuer !
 
-- **[Projet-Python](https://github.com/anthocote19/Projet-Python)** : Un projet Python démontrant mes compétences en programmation. 🐍
-- **[Site-Location](https://github.com/anthocote19/Site-Location)** : Un site web développé en HTML pour la gestion de locations. 🏠
-- **[Projet-TKINTER](https://github.com/anthocote19/Projet-TKINTER)** : Une application de bureau crée avec Tkinter en Python. 🖥️
-- **[first-contributions](https://github.com/anthocote19/first-contributions)** : Un projet pour aider les débutants à contribuer à des projets open source. 🎉
+### 1. [**Projet-Python**](https://github.com/anthocote19/Projet-Python)
+Un projet Python qui démontre mes compétences en programmation, avec des exemples d'algorithmes, de structures de données et d'applications pratiques.
 
-## Me contacter 📬
+### 2. [**Site-Location**](https://github.com/anthocote19/Site-Location)
+Un site web développé en HTML et JavaScript pour la gestion des locations immobilières, avec des fonctionnalités de réservation, gestion des utilisateurs et visualisation des biens disponibles.
 
-- **Email** : antho.cote69@gmail.com 📧
-- **LinkedIn** : https://www.linkedin.com/in/anthony-cote-25390433a/ 🔗
+### 3. [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)
+Une application de bureau créée avec **Tkinter** en Python, permettant la gestion d'une base de données locale. Ce projet démontre mes compétences en développement d'interfaces graphiques simples et fonctionnelles.
 
-N'hésitez pas à me contacter pour toute collaboration ou question ! ✨
+### 4. [**first-contributions**](https://github.com/anthocote19/first-contributions)
+Un projet conçu pour aider les débutants à faire leurs premières contributions open-source. Ce projet explique les bases de Git et GitHub de manière accessible.
+
+
+## Statistiques GitHub 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthocote19)
 
-
-
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=anthocote19&layout=compact)
 
+## Me contacter 📬
 
+- **Email** : [antho.cote69@gmail.com](mailto:antho.cote69@gmail.com) 📧
+- **LinkedIn** : [Anthony Cote](https://www.linkedin.com/in/anthony-cote-25390433a/) 🔗
+
+Je suis toujours ouvert aux **collaborations**, aux **projets open source** et aux **discussions techniques** ! Si tu veux échanger sur l’informatique ou l’IA, n’hésite pas à me contacter.
+
+## Compétences techniques 💻
+
+Voici un aperçu des technologies que j’utilise régulièrement dans mes projets :
+
+- **Développement Web** : HTML, CSS, JavaScript (Front-end et Back-end)
+- **Développement d'Applications** : Python, Java, C
+- **Intelligence Artificielle** : Python, TensorFlow
+- **Outils** : Git, GitHub
+
+## Badges 🎓
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)](https://github.com/anthocote19)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)](https://github.com/anthocote19)
-[![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/anthocote19)
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/anthocote19)
-[![Lua](https://img.shields.io/badge/Lua-blue?style=flat-square&logo=lua&logoColor=white)](https://github.com/anthocote19)
-
-
-
-
-
-
-
-
-
-
-
-
+[![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
+[![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)](https://github.com/anthocote19)
