@@ -59,4 +59,4 @@ Voici un aperçu des technologies que j’utilise régulièrement dans mes proje
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/anthocote19)
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/anthocote19)
 [![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)](https://github.com/anthocote19)
-[![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)](https://github.com/anthocote19)
+[![LUA](https://img.shields.io/badge/LUA-blue?style=flat-square&logo=LUA&logoColor=white)](https://github.com/anthocote19)
