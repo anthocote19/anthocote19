@@ -47,8 +47,9 @@ Je suis toujours ouvert aux **collaborations**, aux **projets open source** et a
 
 Voici un aperçu des technologies que j’utilise régulièrement dans mes projets :
 
-- **Développement Web** : HTML, CSS, JavaScript (Front-end et Back-end)
-- **Développement d'Applications** : Python, Java, C
+- **Développement Web** : HTML, CSS, JavaScript et React (Front-end et Back-end)
+- **Développement d'Applications** : Python, C
+- **Bases de Données** : SQL
 - **Intelligence Artificielle** : Python, TensorFlow
 - **Outils** : Git, GitHub
 
