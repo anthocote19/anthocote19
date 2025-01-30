@@ -47,7 +47,7 @@ Un Portfolio personnel Réaliser en HTML,CSS,JS et React afin d'avoir le meilleu
 Je suis toujours ouvert aux **collaborations**, aux **projets open source** et aux **discussions techniques** ! Si tu veux échanger sur l’informatique ou l’IA, n’hésite pas à me contacter.
 
 ## Compétences techniques 💻
-
+ 
 Voici un aperçu des technologies que j’utilise régulièrement dans mes projets :
 
 - **Développement Web** : HTML, CSS, JavaScript et React (Front-end et Back-end)
