@@ -9,7 +9,7 @@ Je suis développeur passionné par la **création d'applications web**, le **d�
 - **Passions** : Informatique, Machine Learning, Développement Web, Intelligence Artificielle, Jeux Vidéos et Football
 - **Compétences** :
   - **Développement Web** : HTML, CSS, JavaScript 🌐
-  - **Développement d'applications** : Python, Java, C 🐍☕
+  - **Développement d'applications** : Python, C 🐍☕
   - **Intelligence Artificielle** et **Machine Learning** : Création d'algorithmes intelligents et analyse de données 🤖📊
   - **Gestion de projet** : Gestion agile, développement collaboratif, utilisation de Git et GitHub.
 
