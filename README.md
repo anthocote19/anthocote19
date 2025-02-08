@@ -1,7 +1,7 @@
 # Salut, je suis Anthony Cote ! 👋
 
 Je suis développeur passionné par la **création d'applications web**, le **développement logiciel** et l'**intelligence artificielle**. J'aime relever des défis techniques, apprendre de nouvelles technologies et partager mes connaissances avec la communauté. 🚀
-
+ 
 ## À propos de moi 📍
 
 - **Localisation** : France 🇫🇷
