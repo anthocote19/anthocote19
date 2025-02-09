@@ -13,7 +13,7 @@ Je suis développeur passionné par la **création d'applications web**, le **d�
   - **Intelligence Artificielle** et **Machine Learning** : Création d'algorithmes intelligents et analyse de données 🤖📊
   - **Gestion de projet** : Gestion agile, développement collaboratif, utilisation de Git et GitHub.
  
-## Portfolio : 
+# Portfolio : 
 => https://anthonycote.ovh/
 
 ## Mes projets populaires 🚀
