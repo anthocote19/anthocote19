@@ -44,7 +44,7 @@ Un Portfolio personnel Réaliser en HTML,CSS,JS et React afin d'avoir le meilleu
 
 ## Me contacter 📬
 
-- **Email** : [antho.cote69@gmail.com](mailto:antho.cote69@gmail.com) 📧
+- **Email** : [pro.anthonycote@gmail.com](mailto:pro.anthonycote@gmail.com) 📧
 - **LinkedIn** : [Anthony Cote](https://www.linkedin.com/in/anthony-cote-25390433a/) 🔗
 
 Je suis toujours ouvert aux **collaborations**, aux **projets open source** et aux **discussions techniques** ! Si tu veux échanger sur l’informatique ou l’IA, n’hésite pas à me contacter.
