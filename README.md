@@ -1,6 +1,6 @@
 # 🚀 **Anthony Cote | Développeur Web & IA**
  
-🎯 Passionné par l'**innovation**, le **développement d'applications** et l'**intelligence artificielle**.  
+🎯 Passionné par l'**innovation**, le **développement d'applications** et l'**intelligence artificielle**.   
 💡 Toujours prêt à relever de **nouveaux défis** et à apprendre des **technologies émergentes**.   
   
 ---  
