@@ -1,6 +1,6 @@
 # 🚀 **Anthony Cote | Développeur Web & IA**
 
-Bienvenue sur mon profil GitHub ! Je suis **Anthony Cote**, un développeur passionné par l'**innovation**, le **développement d'applications** et l'**intelligence artificielle**. Toujours curieux et motivé par les **technologies émergentes**, je suis en constante quête de nouveaux défis pour affiner mes compétences.
+Bienvenue sur mon profil GitHub ! Je suis **Anthony Cote**, un développeur passionné par l'**innovation**, le **développement d'applications** et l'**intelligence artificielle**. Toujours curieux et motivé par les **technologies émergentes**, je suis en constante quête de nouveaux défis pour affiner mes compétences. 
  
 ---
 
