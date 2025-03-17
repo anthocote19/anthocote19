@@ -64,7 +64,7 @@ Un **portfolio interactif** et moderne développé en **React** et **Vite.js**, 
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 📊 **Statistiques GitHub** 
 
 Voici un aperçu de mes contributions sur GitHub :  
 
