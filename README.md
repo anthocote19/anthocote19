@@ -6,12 +6,12 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 
 --- 
 
-## 🌍 **À propos de moi**
+##  **À propos de moi**
 
-### 📍 **Localisation**
+###  **Localisation**
 🇫🇷 Basé en France, ouvert aux collaborations à l'international.
 
-### 🗣️ **Langues**
+###  **Langues**
 - **Français** 🇫🇷 (Langue maternelle)  
 - **Anglais** 🇬🇧 (Compétence professionnelle)  
 
@@ -29,21 +29,19 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 - **Front-end** : HTML, CSS, JavaScript, React, Next.js, TailwindCSS.  
 - **Back-end** : Node.js, Express.js, API REST, GraphQL.  
 - **Bases de données** : MongoDB, MySQL, PostgreSQL.  
-- **Déploiement** : Vite.js, Docker, CI/CD (GitHub Actions).  
+- **Déploiement** : Vite.js, Docker, 
 
 ### 🔹 **Développement Logiciel**
 - **Langages** : Python, C, Java.  
 - **Outils** : Git, GitHub, VS Code, IntelliJ IDEA.  
-- **Méthodologies** : Agile, Scrum, Kanban.  
 
 ### 🔹 **Intelligence Artificielle & Machine Learning**
 - **Frameworks** : TensorFlow, PyTorch, Scikit-learn.  
-- **Domaines** : NLP, Computer Vision, Analyse de données.  
 
 ### 🔹 **Systèmes et Cloud**
 - **OS** : Linux, Windows Server.  
 - **Virtualisation** : VMware, Docker.  
-- **Cloud** : OVH, AWS, Firebase.  
+- **Cloud** : OVH  
 
 ---
 
@@ -73,7 +71,7 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 
 ---
 
-## 📬 **Me contacter**
+##  **Me contacter**
 
 📧 **Email** : [pro.anthonycote@gmail.com](mailto:pro.anthonycote@gmail.com)  
 🔗 **LinkedIn** : [Anthony Cote](https://www.linkedin.com/in/anthony-cote-25390433a/)  
@@ -89,7 +87,7 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 - Développer des **applications full-stack** performantes et scalables.  
 - Contribuer à des **projets open-source** et travailler avec des développeurs du monde entier.  
 
-### 🌟 **Valeurs**
+### **Valeurs**
 - **Innovation** : Toujours à la recherche de nouvelles idées.  
 - **Collaboration** : Travailler en équipe pour créer des solutions performantes.  
 - **Apprentissage continu** : Explorer les nouvelles technologies et se perfectionner.  
