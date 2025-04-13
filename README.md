@@ -15,15 +15,15 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 - **Français** 🇫🇷 (Langue maternelle)  
 - **Anglais** 🇬🇧 (Compétence professionnelle)  
 
-### 🎮 **Passions**
-- 💻 **Développement logiciel** : Programmation, optimisation et conception de systèmes.  
-- 🤖 **Intelligence Artificielle** : Apprentissage automatique, analyse de données et réseaux neuronaux.  
-- 🎮 **Jeux Vidéo** : Développement, mécaniques de jeu et expériences interactives.  
-- ⚽ **Football** : Travail d'équipe et gestion de projet appliquée au sport.  
+###  **Passions**
+-  **Développement logiciel** : Programmation, optimisation et conception de systèmes.  
+-  **Intelligence Artificielle** : Apprentissage automatique, analyse de données et réseaux neuronaux.  
+-  **Jeux Vidéo** : Développement, mécaniques de jeu et expériences interactives.  
+-  **Football** : Travail d'équipe et gestion de projet appliquée au sport.  
 
 ---
 
-## 🛠️ **Compétences techniques**
+##  **Compétences techniques**
 
 ### 🔹 **Développement Web**
 - **Front-end** : HTML, CSS, JavaScript, React, Next.js, TailwindCSS.  
@@ -47,24 +47,24 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 
 ##  **Projets récents**
 
-### 🔥 [**Projet-Python**](https://github.com/anthocote19/Projet-Python)  
+###  [**Projet-Python**](https://github.com/anthocote19/Projet-Python)  
 🔹 Algorithmes avancés et structures de données en Python.  
 
-### 🏠 [**Site-Location**](https://github.com/anthocote19/Site-Location)  
+###  [**Site-Location**](https://github.com/anthocote19/Site-Location)  
 🔹 Plateforme de location avec gestion des réservations et interface moderne.  
 
-### 🎬 [**Cinema-Project**](https://github.com/anthocote19/Cinema-Project)  
+###  [**Cinema-Project**](https://github.com/anthocote19/Cinema-Project)  
 🔹 Application web pour rechercher et afficher des films via l'API **OMDb**.  
 
-### 🖥️ [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)  
+### 🖥 [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)  
 🔹 Application de bureau avec gestion de bases de données locales.  
 
-### 🌐 [**Portfolio-React**](https://github.com/anthocote19/Portfolio-React)  
+###  [**Portfolio-React**](https://github.com/anthocote19/Portfolio-React)  
 🔹 Mon portfolio interactif en **React** et **Vite.js** avec animations et UI moderne.  
 
 ---
 
-## 📊 **Statistiques GitHub**
+##  **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthocote19&show_icons=true&theme=radical)  
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=anthocote19&layout=compact&theme=radical)  
@@ -76,7 +76,8 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 📧 **Email** : [pro.anthonycote@gmail.com](mailto:pro.anthonycote@gmail.com)  
 🔗 **LinkedIn** : [Anthony Cote](https://www.linkedin.com/in/anthony-cote-25390433a/)  
 
-💬 Ouvert aux collaborations, projets open source et opportunités techniques.  
+
+
 
 ---
 
