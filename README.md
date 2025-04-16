@@ -56,7 +56,7 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 ###  [**Cinema-Project**](https://github.com/anthocote19/Cinema-Project)  
 🔹 Application web pour rechercher et afficher des films via l'API **OMDb**.  
 
-### 🖥 [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)  
+### [**Projet-TKINTER**](https://github.com/anthocote19/Projet-TKINTER)  
 🔹 Application de bureau avec gestion de bases de données locales.  
 
 ###  [**Portfolio-React**](https://github.com/anthocote19/Portfolio-React)  
