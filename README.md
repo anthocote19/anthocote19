@@ -73,7 +73,7 @@ Toujours en quête d'innovation, j'aime relever des défis techniques et travail
 
 ##  **Me contacter**
 
-📧 **Email** : [pro.anthonycote@gmail.com](mailto:pro.anthonycote@gmail.com)  
+
 🔗 **LinkedIn** : [Anthony Cote](https://www.linkedin.com/in/anthony-cote-25390433a/)  
 
 
