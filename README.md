@@ -5,7 +5,7 @@ Je suis **Anthony Cote**, un développeur passionné par l'**informatique**, l'*
 Toujours en quête d'innovation, j'aime relever des défis techniques et travailler sur des projets ambitieux.  
 
 --- 
- 
+  
 ##  **À propos de moi**
 
 ###  **Localisation**
